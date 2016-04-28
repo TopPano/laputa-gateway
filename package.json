@@ -1,0 +1,21 @@
+{
+  "name": "verpix-gateway",
+  "version": "0.0.1",
+  "description": "verpix web gateway",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "uniray test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TopPano/verpix-gateway.git"
+  },
+  "author": "uniray7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TopPano/verpix-gateway/issues"
+  },
+  "homepage": "https://github.com/TopPano/verpix-gateway#readme"
+}
