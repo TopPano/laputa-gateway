@@ -1,7 +1,7 @@
 {
-  "name": "verpix-gateway",
+  "name": "laputa-gateway",
   "version": "0.0.1",
-  "description": "verpix web gateway",
+  "description": "laputa web gateway",
   "main": "app.js",
   "dependencies": {
     "http": "0.0.0",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TopPano/verpix-gateway.git"
+    "url": "git+https://github.com/TopPano/laputa-gateway.git"
   },
   "author": "uniray7",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TopPano/verpix-gateway/issues"
+    "url": "https://github.com/TopPano/laputa-gateway/issues"
   },
-  "homepage": "https://github.com/TopPano/verpix-gateway#readme"
+  "homepage": "https://github.com/TopPano/laputa-gateway#readme"
 }
