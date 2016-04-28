@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "description": "verpix web gateway",
   "main": "app.js",
-  "dependencies": {},
+  "dependencies": {
+    "http": "0.0.0",
+    "http-proxy": "^1.13.2"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "uniray test"
