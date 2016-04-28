@@ -1,0 +1,5 @@
+{                                                                                                                          
+    "port": "9999",                                                                   
+    "apiProxy": "http://verpix-api-elb-1183746318.ap-northeast-1.elb.amazonaws.com/", 
+    "viewerProxy": "http://localhost:3001"                       
+}

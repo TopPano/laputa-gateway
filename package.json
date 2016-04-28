@@ -5,8 +5,10 @@
   "main": "app.js",
   "dependencies": {
     "config": "^1.20.1",
+    "fs": "0.0.2",
     "http": "0.0.0",
-    "http-proxy": "^1.13.2"
+    "http-proxy": "^1.13.2",
+    "shelljs": "^0.7.0"
   },
   "devDependencies": {},
   "config": {
