@@ -4,12 +4,19 @@
   "description": "laputa web gateway",
   "main": "app.js",
   "dependencies": {
+    "config": "^1.20.1",
     "http": "0.0.0",
     "http-proxy": "^1.13.2"
   },
   "devDependencies": {},
+  "config": {
+    "port": "9999",
+    "apiProxy": "http://verpix-api-elb-1183746318.ap-northeast-1.elb.amazonaws.com/",
+    "viewerProxy": "http://localhost:3001"
+  },
   "scripts": {
-    "test": "uniray test"
+    "test": "uniray test",
+    "service": "node setup.js"
   },
   "repository": {
     "type": "git",
